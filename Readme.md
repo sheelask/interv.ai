@@ -1,0 +1,1 @@
+# This is an attempt to migrate my Flask auth code to GoLang, and learn Go in the process
